@@ -1,0 +1,7 @@
+The AMBA AHB protocol enables communication between multiple bus masters and slaves in a SoC. It provides a high-performance backbone for systems that require fast memory and peripheral access.
+
+Core Components:
+Masters (Managers): Initiate read/write operations.
+Slaves (Subordinates): Respond to master requests.
+Decoder: Maps address ranges to specific slaves.
+Multiplexor: Routes slave outputs to master based on selection logic.
