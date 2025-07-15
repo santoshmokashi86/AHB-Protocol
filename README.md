@@ -14,7 +14,8 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 - **Decoder:** Maps addresses to the corresponding slave devices.
 - **Multiplexor:** Routes outputs from slaves back to the master.
 
-![image_alt](https://github.com/santoshmokashi86/AHB-Protocol/blob/main/Screenshot%202025-06-27%20084157.png?raw=true)
+![image_alt](<img width="1301" height="842" alt="image" src="https://github.com/user-attachments/assets/876d0242-5ad4-4726-aeed-aa821cddd135" />
+)
 
 ---
 
