@@ -16,6 +16,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 
 ![image_alt](https://github.com/santoshmokashi86/AHB-Protocol/blob/main/Screenshot%202025-06-27%20084157.png?raw=true)
 
+---
 
 ## 🚦 Manager (Master) Interface
 
@@ -37,6 +38,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 - `HTRANS`: Transfer type.
 - `HPROT`: Protection level.
 - `HMASTLOCK`: Locked sequence indicator.
+
 
 ---
 
