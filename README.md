@@ -55,7 +55,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 - `HRESP_x`: Transfer response.
 - `HRDATA_x`: Read data.
 
-![image_alt](https://github.com/santoshmokashi86/AHB-Protocol/blob/main/master.png?raw=true)
+![image_alt](https://github.com/santoshmokashi86/AHB-Protocol/blob/main/subordinate.png?raw=true)
 ---
 
 ##  Decoder Signals
@@ -76,6 +76,13 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 
 ### 🔺 Output
 - `HREADY`, `HRESP`, `HRDATA`
+
+---
+## Overall Block Diagram 
+
+![image_alt](https://github.com/santoshmokashi86/AHB-Protocol/blob/main/Overall_arch.png?raw=true)
+
+
 
 ---
 
