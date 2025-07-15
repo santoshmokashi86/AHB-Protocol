@@ -39,7 +39,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 - `HPROT`: Protection level.
 - `HMASTLOCK`: Locked sequence indicator.
 
-
+![image_alt]()
 ---
 
 ## 📥 Subordinate (Slave) Interface
