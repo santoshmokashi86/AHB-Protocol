@@ -17,6 +17,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 ![AHB Block Diagram](images/ahb_block_diagram.png)
 
 ---
+<img width="1430" height="942" alt="Screenshot 2025-07-04 144439" src="https://github.com/user-attachments/assets/fa5c6ba5-6fe6-4468-a3d5-62d78be016fc" />
 
 ## 🚦 Manager (Master) Interface
 
