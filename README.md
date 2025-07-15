@@ -39,7 +39,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 - `HPROT`: Protection level.
 - `HMASTLOCK`: Locked sequence indicator.
 
-![image_alt]()
+![image_alt](https://github.com/santoshmokashi86/AHB-Protocol/blob/main/master.png?raw=true)
 ---
 
 ## 📥 Subordinate (Slave) Interface
@@ -55,9 +55,10 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 - `HRESP_x`: Transfer response.
 - `HRDATA_x`: Read data.
 
+![image_alt](https://github.com/santoshmokashi86/AHB-Protocol/blob/main/master.png?raw=true)
 ---
 
-## 🧠 Decoder Signals
+##  Decoder Signals
 
 ### 🔻 Input
 - `HADDR`
@@ -89,7 +90,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 | Idle State | No operation cycle |
 | Busy State | Master is not ready for transfer |
 
-![Transfer Examples](images/transfer_examples.png)
+
 
 ---
 
@@ -105,7 +106,7 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 
 **Wrap boundary = Number of beats × Beat size**
 
-![INCR vs WRAP](images/incr_vs_wrap.png)
+
 
 ---
 
@@ -121,10 +122,6 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 
 ## 📸 Transfer Visuals
 
-| Mode | Image |
-|------|-------|
-| WRAP4 Burst | ![WRAP4](images/wrap4.png) |
-| INCR4 Burst | ![INCR4](images/incr4.png) |
 
 ---
 
@@ -132,7 +129,6 @@ The **Advanced High-Performance Bus (AHB)** is part of the AMBA protocol suite. 
 
 Thanks to the instructors and team at the  
 **Centre for Heterogeneous and Intelligent Processing Systems**  
-for designing this detailed and educational AHB protocol project.
 
 ---
 
