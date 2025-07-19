@@ -30,7 +30,7 @@ module abh_top (
   wire [31:0] data_out_mux;
 
   // Master
-  assgn1 u_master (
+  master_glue u_master (
     .hready(hready),
     .hresp(hresp),
     .func3(func3),
@@ -80,7 +80,7 @@ module abh_top (
   );
 
   // ROM
-  rom_sample u_rom (
+  Instruction_ROM u_rom (
     .clk(clk),
     .reset(reset),
     .sel_0(sel_0),
