@@ -10,7 +10,7 @@ module ahb_top_tb;
   wire [31:0] data_out;
 
   // Instantiate the DUT
-  imp1 dut (
+  ahb_top dut (
     .clk(clk),
     .reset(reset),
     .mem_write(mem_write),
