@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module assgn1 (
+module AHB (
     input [31:0] data_out_mux,
     input        hready,
     input        hresp,
