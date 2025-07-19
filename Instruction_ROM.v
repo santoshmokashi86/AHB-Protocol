@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module rom_sample(
+module Instruction_ROM(
     input clk,
     input reset,
     input sel_0,
